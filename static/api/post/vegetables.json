@@ -1,13 +1,205 @@
 {
   "results": [{
-    "id": "vivamus-tortor-duis-mattis",
-    "title": "vivamus tortor duis mattis",
-    "content": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "id": "vegetables",
+    "title": "Vegetables",
+    "content": "",
     "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/simone-hutsch.jpg",
     "meta": {
-      "description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "description": "",
       "published": "2017-05-27T00:05:26Z",
-      "author": "Tommi Filipson"
+      "author": "Shoko",
+      "list": [{
+        "id": 1,
+        "name": "Amaranth Greens",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Callaloo, a variety of greens"
+      },
+      {
+        "id": 2,
+        "name": "Avocado",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "name": "Bell Peppers",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 4,
+        "name": "Chayote",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Mexican Squash"
+      },
+      {
+        "id": 5,
+        "name": "Cucumber",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 6,
+        "name": "Dandelion greens",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 7,
+        "name": "Garbanzo Beans",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 8,
+        "name": "Izote",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Cactus Flower / cactus leaf"
+      },
+      {
+        "id": 9,
+        "name": "Kale",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 10,
+        "name": "Lettuce",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "All, except iceberg"
+      },
+      {
+        "id": 11,
+        "name": "Mushrooms",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "All, except Shitake"
+      },
+      {
+        "id": 12,
+        "name": "Nopales",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Mexican cactus"
+      },
+      {
+        "id": 13,
+        "name": "Okra",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 14,
+        "name": "Olives",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 15,
+        "name": "Onions",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 16,
+        "name": "Purslane",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Verdolaga"
+      },
+      {
+        "id": 17,
+        "name": "Sea Vegetables",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Wakame / dulse / arame / hijiki / nori"
+      },
+      {
+        "id": 18,
+        "name": "Squash",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 19,
+        "name": "Tomatillo",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 20,
+        "name": "Tomato",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": "Cherry & plum only"
+      },
+      {
+        "id": 21,
+        "name": "Turnip Greens",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 22,
+        "name": "Watercress",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 23,
+        "name": "Wild Arugula",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      },
+      {
+        "id": 24,
+        "name": "Zucchini",
+        "category": "vegetables",
+        "sub_category": "",
+        "image": "",
+        "description": ""
+      }]
     }
   }]
 }

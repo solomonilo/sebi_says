@@ -1,6 +1,7 @@
 <template>
   <main class="blog" :class="{ 'blog--reading': this.post }">
     <blog-nav :content="content" :filters="filters" :navs="navs"/>
+    <h4 style="text-align: center;" v-if="$route.path == '/'">Disclaimer: We are in no way affiliated with Dr.Sebi. This is purely a tool to help spread his teachings.</h4>
     <blog-feed :filters="filters"/>
     <blog-post :post="post"/>
     <blog-footer/>

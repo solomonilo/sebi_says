@@ -4,17 +4,17 @@
       <router-link to="/">{{ content.title }}</router-link>
     </h1>
 
+    <!--
     <li class="nav__item">
-      <router-link to="/">
+      <router-link to="/read/about"
+        @click.native="scrollTo(0, 220, scrollDelay)">
         <span class="nav__item--label" style="padding: 0 10px;">About</span>
       </router-link>
-      <router-link to="/">
-        <span class="nav__item--label" style="padding: 0 10px;">Search</span>
-      </router-link>
-      <router-link to="/">
+      <router-link to="/read/disclaimer"
+        @click.native="scrollTo(0, 220, scrollDelay)">
         <span class="nav__item--label" style="padding: 0 10px;">Disclaimer</span>
       </router-link>
-    </li>
+    </li>-->
 
     <transition-group tag="menu" name="nav__item" class="nav__menu">
       <li v-for="label in labels" class="nav__item" :key="label" @click="navBack">
@@ -26,6 +26,7 @@
 </template>
 
 <script>
+import { scrollTo } from '../helpers'
 export default {
   name: 'blog-nav',
   props: {
@@ -38,6 +39,7 @@ export default {
   },
 
   computed: {
+    scrollDelay() { return (this.$device.phone) ? 0 : 560 },
     labels() {
       return Object.keys(this.filters)
         .map(filter => this.content.labels[filter])
@@ -45,6 +47,7 @@ export default {
   },
 
   methods: {
+    scrollTo,
     navBack() {
       if (this.navs && !this.filters.author) this.$router.go(-1)
       else this.$router.push('/')

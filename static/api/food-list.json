@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "name": "Amaranth Greens",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Callaloo, a variety of greens"
+  },
+  {
+    "id": 2,
+    "name": "Avocado",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Bell Peppers",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Chayote",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Mexican Squash"
+  },
+  {
+    "id": 5,
+    "name": "Cucumber",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Dandelion greens",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Garbanzo Beans",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Izote",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Cactus Flower / cactus leaf"
+  },
+  {
+    "id": 9,
+    "name": "Kale",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Lettuce",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "All, except iceberg"
+  },
+  {
+    "id": 11,
+    "name": "Mushrooms",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "All, except Shitake"
+  },
+  {
+    "id": 12,
+    "name": "Nopales",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Mexican cactus"
+  },
+  {
+    "id": 13,
+    "name": "Okra",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Olives",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "Onions",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "name": "Purslane",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Verdolaga"
+  },
+  {
+    "id": 17,
+    "name": "Sea Vegetables",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Wakame / dulse / arame / hijiki / nori"
+  },
+  {
+    "id": 18,
+    "name": "Squash",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "Tomatillo",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "Tomato",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": "Cherry & plum only"
+  },
+  {
+    "id": 21,
+    "name": "Turnip Greens",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Watercress",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Wild Arugula",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Zucchini",
+    "category": "vegetables",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Apples",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "Bananas",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "The smallest one or the Burro / midsize / original banana"
+  },
+  {
+    "id": 27,
+    "name": "Berries",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "All varieties, no cranberries"
+  },
+  {
+    "id": 28,
+    "name": "Cantaloupe",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "Cherries",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "Currants",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Dates",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "name": "Elderberries",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "In any form"
+  },
+  {
+    "id": 33,
+    "name": "Figs",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "name": "Grapes",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Seeded"
+  },
+  {
+    "id": 35,
+    "name": "Limes",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Key limes with seeds"
+  },
+  {
+    "id": 36,
+    "name": "Mango",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 37,
+    "name": "Melons",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Seeded"
+  },
+  {
+    "id": 38,
+    "name": "Orange",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Seville or sour preferred, difficult to find"
+  },
+  {
+    "id": 39,
+    "name": "Papayas",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 40,
+    "name": "Peaches",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 41,
+    "name": "Pears",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "name": "Plums",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 43,
+    "name": "Prickly Pear",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Cactus fruit"
+  },
+  {
+    "id": 44,
+    "name": "Prunes",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 45,
+    "name": "Raisins",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "name": "Soft Jelly Coconuts",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 47,
+    "name": "Soursops",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": "Latin or West Indian markets"
+  },
+  {
+    "id": 48,
+    "name": "Tamarind",
+    "category": "fruits",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 49,
+    "name": "Burdock",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 50,
+    "name": "Chamomile",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 51,
+    "name": "Elderberry",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 52,
+    "name": "Fennel",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 53,
+    "name": "Ginger",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "name": "Raspberry",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 55,
+    "name": "Tila",
+    "category": "natural_herbal_teas",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 56,
+    "name": "Amaranth",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 57,
+    "name": "Fonio",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 58,
+    "name": "Kamut",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 59,
+    "name": "Quinoi",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 60,
+    "name": "Rye",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 61,
+    "name": "Spelt",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 62,
+    "name": "Tef",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 63,
+    "name": "Wild Rice",
+    "category": "grains",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 64,
+    "name": "Brazil Nuts",
+    "category": "nuts_seeds",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 65,
+    "name": "Hemp Seeds",
+    "category": "nuts_seeds",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 66,
+    "name": "Raw Sesame \"Tahini\" Butter",
+    "category": "nuts_seeds",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 67,
+    "name": "Raw Sesame Seeds",
+    "category": "nuts_seeds",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 68,
+    "name": "Walnuts",
+    "category": "nuts_seeds",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 69,
+    "name": "Avocado Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 70,
+    "name": "Coconut Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": "Do not cook"
+  },
+  {
+    "id": 71,
+    "name": "Grapeseed Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 72,
+    "name": "Hempseed Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 73,
+    "name": "Olive Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": "Do not cook"
+  },
+  {
+    "id": 74,
+    "name": "Sesame Oil",
+    "category": "oils",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 75,
+    "name": "Basil",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 76,
+    "name": "Bay Leaf",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 77,
+    "name": "Cloves",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 78,
+    "name": "Dill",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 79,
+    "name": "Oregano",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 80,
+    "name": "Savory",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 81,
+    "name": "Sweet Basil",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 82,
+    "name": "Tarragon",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 83,
+    "name": "Thyme",
+    "category": "spices_seasonings",
+    "sub_category": "mild_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 84,
+    "name": "Achiote",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 85,
+    "name": "Cayenne",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": "African / Bird pepper"
+  },
+  {
+    "id": 86,
+    "name": "Coriander",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": "Cilantro"
+  },
+  {
+    "id": 87,
+    "name": "Habanero",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 88,
+    "name": "Onion Powder",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 89,
+    "name": "Sage",
+    "category": "spices_seasonings",
+    "sub_category": "pungent_spicy_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 90,
+    "name": "Pure Sea Salt",
+    "category": "spices_seasonings",
+    "sub_category": "salty_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 91,
+    "name": "Powdered Granulated Seaweed",
+    "category": "spices_seasonings",
+    "sub_category": "salty_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 92,
+    "name": "Kelp",
+    "category": "spices_seasonings",
+    "sub_category": "salty_flavors",
+    "image": "",
+    "description": "Has 'Sea Taste'"
+  },
+  {
+    "id": 93,
+    "name": "Dulse",
+    "category": "spices_seasonings",
+    "sub_category": "salty_flavors",
+    "image": "",
+    "description": "Has 'Sea Taste'"
+  },
+  {
+    "id": 94,
+    "name": "Nori",
+    "category": "spices_seasonings",
+    "sub_category": "salty_flavors",
+    "image": "",
+    "description": "Has 'Sea Taste'"
+  },
+  {
+    "id": 95,
+    "name": "Pure Agave Syrup",
+    "category": "",
+    "sub_category": "sweet_flavors",
+    "image": "",
+    "description": "From cactus"
+  },
+  {
+    "id": 96,
+    "name": "Date Syrup",
+    "category": "",
+    "sub_category": "sweet_flavors",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 97,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 98,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 99,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 100,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 101,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 102,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 103,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": 104,
+    "name": "",
+    "category": "",
+    "sub_category": "",
+    "image": "",
+    "description": ""
+  }
+]
