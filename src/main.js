@@ -1,6 +1,11 @@
 import './startup'
 
 import Vue from 'vue'
+import Raven from 'raven-js';
+import RavenVue from 'raven-js/plugins/vue';
+Raven.config('https://3c7453af624c4e1eb89c0fbabd6ba9bb@sentry.io/271363')
+  .addPlugin(RavenVue, Vue)
+  .install();
 import App from './App'
 import router from './router'
 import * as resources from './resources'

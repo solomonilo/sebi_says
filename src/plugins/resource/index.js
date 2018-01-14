@@ -1,5 +1,6 @@
 import cache from './cache'
 import _merge from 'lodash.merge'
+import 'whatwg-fetch'
 
 // install $resource as a Vue plugin
 export default {
