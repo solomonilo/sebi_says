@@ -68,7 +68,7 @@ export default {
   watch: {
     post(to, from) {
       if (to === from || !this.post) return;
-
+      this.search = ''
       this.commentsReady = false
       this.$getResource('post', to)
         .then(this.showComments)
