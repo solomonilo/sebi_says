@@ -4,7 +4,7 @@
       <header class="post__header">
         <h2 class="post__title" style="display: inline-block;">{{ title }}</h2>
 
-        <form class="search-container" style="display: inline-block; width: auto; float: right;">
+        <form v-if="post == 'about' || post == 'disclaimer'" class="search-container" style="display: inline-block; width: auto; float: right;">
           <input id="search-box" type="text" class="search-box" v-model="search" placeholder="Filter"/>
           <label for="search-box"><span class="fa fa-search search-icon"></span></label>
           <input type="submit" id="search-submit" />
