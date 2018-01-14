@@ -4,6 +4,18 @@
       <router-link to="/">{{ content.title }}</router-link>
     </h1>
 
+    <li class="nav__item">
+      <router-link to="/">
+        <span class="nav__item--label" style="padding: 0 10px;">About</span>
+      </router-link>
+      <router-link to="/">
+        <span class="nav__item--label" style="padding: 0 10px;">Search</span>
+      </router-link>
+      <router-link to="/">
+        <span class="nav__item--label" style="padding: 0 10px;">Disclaimer</span>
+      </router-link>
+    </li>
+
     <transition-group tag="menu" name="nav__item" class="nav__menu">
       <li v-for="label in labels" class="nav__item" :key="label" @click="navBack">
         <i class="nav__item--icon"></i>

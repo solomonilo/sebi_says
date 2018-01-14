@@ -1,93 +1,45 @@
 {
   "results": [{
-    "title": "neque libero convallis eget",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/karl-magnuson.jpg",
-    "published": "2017-09-14T18:17:00Z",
-    "author": "Michelle Blackford",
-    "id": "neque-libero-convallis-eget"
+    "title": "Fruits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Ffruits.jpg?alt=media&token=68346488-04fc-4c1d-acba-3d7c26277db9",
+    "published": "2018-01-14T18:17:00Z",
+    "author": "Shoko",
+    "id": "fruits"
   }, {
-    "title": "sit amet erat",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/etienne-bosiger.jpg",
-    "published": "2017-09-09T22:11:56Z",
-    "author": "Nathan Greave",
-    "id": "sit-amet-erat"
+    "title": "Grains",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Fgrains.jpg?alt=media&token=1aa04adf-9dd4-4480-bed5-d060d9037d76",
+    "published": "2018-01-09T22:11:56Z",
+    "author": "Shoko",
+    "id": "grains"
   }, {
-    "title": "posuere cubilia",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/saksham-gangwar.jpg",
-    "published": "2017-09-05T00:55:44Z",
-    "author": "Hugo Curness",
-    "id": "posuere-cubilia"
+    "title": "Natural Herbal Teas",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Fherbal.jpg?alt=media&token=f1a03b8d-9e88-4f83-97d3-b8f2d43c6f11",
+    "published": "2018-01-05T00:55:44Z",
+    "author": "Shoko",
+    "id": "natural-herbal-teas"
   }, {
-    "title": "consequat ut nulla",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mona-eendra.jpg",
-    "published": "2017-07-28T18:31:01Z",
-    "author": "Derrik Yerrington",
-    "id": "consequat-ut-nulla"
+    "title": "Nuts & Seeds",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Fnuts.jpg?alt=media&token=12b9cc56-711b-4ca7-8e69-a0195a426820",
+    "published": "2018-01-04T18:31:01Z",
+    "author": "Shoko",
+    "id": "nuts-and-seeds"
   }, {
-    "title": "curabitur gravida nisi",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/adam-krowitz.jpg",
-    "published": "2017-06-12T10:01:51Z",
-    "author": "Michelle Blackford",
-    "id": "curabitur-gravida-nisi"
+    "title": "Oils",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Foil.jpg?alt=media&token=236f8364-b9fd-46cc-9f1c-eb7a3c7ab29e",
+    "published": "2018-01-03T10:01:51Z",
+    "author": "Shoko",
+    "id": "oils"
   }, {
-    "title": "pretium nisl",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/steven-pahel.jpg",
-    "published": "2017-06-02T03:22:11Z",
-    "author": "Nathan Greave",
-    "id": "pretium-nisl"
+    "title": "Spices & Seasonings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Fspice.jpg?alt=media&token=2b1e94fd-1294-4fc2-9231-d30dc970c80c",
+    "published": "2018-01-02T03:22:11Z",
+    "author": "Shoko",
+    "id": "spices-and-seasonings"
   }, {
-    "title": "vivamus tortor duis mattis",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/simone-hutsch.jpg",
-    "published": "2017-05-27T00:05:26Z",
-    "author": "Tommi Filipson",
-    "id": "vivamus-tortor-duis-mattis"
-  }, {
-    "title": "potenti cras in purus",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/casey-horner.jpg",
-    "published": "2017-05-25T13:12:39Z",
-    "author": "Nathan Greave",
-    "id": "potenti-cras-in-purus"
-  }, {
-    "title": "ultrices mattis odio",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/nate-rayfield.jpg",
-    "published": "2017-05-10T13:57:35Z",
-    "author": "Nathan Greave",
-    "id": "ultrices-mattis-odio"
-  }, {
-    "title": "nunc commodo placerat",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/kimon-maritz.jpg",
-    "published": "2017-04-12T09:43:53Z",
-    "author": "Nathan Greave",
-    "id": "nunc-commodo-placerat"
-  }, {
-    "title": "sit amet diam in",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/shalom-mwenesi.jpg",
-    "published": "2017-04-03T22:21:22Z",
-    "author": "Derrik Yerrington",
-    "id": "sit-amet-diam-in"
-  }, {
-    "title": "sapien ut nunc",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/robson-hatsukami-morgan.jpg",
-    "published": "2017-03-10T21:11:06Z",
-    "author": "Derrik Yerrington",
-    "id": "sapien-ut-nunc"
-  }, {
-    "title": "ut massa quis augue",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/tom-barrett.jpg",
-    "published": "2016-12-15T23:29:56Z",
-    "author": "Nathan Greave",
-    "id": "ut-massa-quis-augue"
-  }, {
-    "title": "lacinia eget tincidunt",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/joshua-hibbert.jpg",
-    "published": "2016-11-02T02:21:18Z",
-    "author": "Martha Bonde",
-    "id": "lacinia-eget-tincidunt"
-  }, {
-    "title": "dolor quis",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/maarten-van-den-heuvel.jpg",
-    "published": "2016-10-27T09:42:32Z",
-    "author": "Tommi Filipson",
-    "id": "dolor-quis"
+    "title": "Vegetables",
+    "image": "https://firebasestorage.googleapis.com/v0/b/sebi-says.appspot.com/o/categories%2Fvegetables.jpg?alt=media&token=aab77b50-a7d7-4e17-a726-54c27ec87185",
+    "published": "2018-01-01T00:05:26Z",
+    "author": "Shoko",
+    "id": "vegetables"
   }]
 }

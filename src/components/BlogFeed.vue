@@ -10,6 +10,7 @@
               {{ post.title }}
             </router-link>
 
+            <!--
             <div class="preview__meta">
               <time class="preview__published">
                 {{ prettyDate(post.published) }}
@@ -20,7 +21,9 @@
                 @click.native="scrollTo(0, 220, scrollDelay)">
                 {{ post.author }}
               </router-link>
-            </div>
+            </div> -->
+
+
           </figcaption>
         </transition>
       </figure>
