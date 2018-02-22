@@ -69,6 +69,7 @@ export default {
     post(to, from) {
       if (to === from || !this.post) return;
       this.search = ''
+      this.list = ''
       this.commentsReady = false
       this.$getResource('post', to)
         .then(this.showComments)
